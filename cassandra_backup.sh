@@ -3,7 +3,7 @@
 ###
 ### Cassandra database backup shell script
 ### Back up keyspace schema and snapshots
-### Author: Djordje Miloshevic
+### Author: Djordje Miloshevic salalalalaaaa
 ###
 
 ### VARIABLES
